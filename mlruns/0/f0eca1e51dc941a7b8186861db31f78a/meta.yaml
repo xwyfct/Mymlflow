@@ -1,0 +1,14 @@
+artifact_uri: ./mlruns/0/f0eca1e51dc941a7b8186861db31f78a/artifacts
+end_time: 1540138771675
+entry_point_name: ''
+experiment_id: 0
+lifecycle_stage: active
+name: ''
+run_uuid: f0eca1e51dc941a7b8186861db31f78a
+source_name: ./train.py
+source_type: 4
+source_version: ''
+start_time: 1540138771656
+status: 3
+tags: []
+user_id: root

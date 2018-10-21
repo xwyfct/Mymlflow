@@ -1,0 +1,14 @@
+artifact_uri: ./mlruns/0/caef46ab67f34371981aa91fe2777b2c/artifacts
+end_time: 1540138714229
+entry_point_name: ''
+experiment_id: 0
+lifecycle_stage: active
+name: ''
+run_uuid: caef46ab67f34371981aa91fe2777b2c
+source_name: ./train.py
+source_type: 4
+source_version: ''
+start_time: 1540138714109
+status: 3
+tags: []
+user_id: root
